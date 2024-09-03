@@ -1,6 +1,6 @@
-## Portfolio
+I am a Machine Learning Engineer with a background in medical imaging and computer vision systems. I obtained my Master of Science in Electrical and Computer Engineering at Carnegie Mellon University, with a focus on AI/ML Systems. During my time there, I honed my skills in advanced topics like pose estimation, depth estimation, and self-supervised learning, contributing to research that emphasizes enhancing perceptual capabilities under challenging conditions, such as occlusion, with minimal supervision and leveraging multimodal information.
 
----
+Before pursuing my master’s degree, I earned my Bachelor of Science in Computer Science from San Jose State University. I have also worked on a range of machine learning and computer vision projects, including experience as a Student Researcher at Xu Lab and various industry roles. My journey has allowed me to work across both academic and professional settings, where I contributed to the development of algorithms in fields such as self-supervised representation learning, federated learning, and the integration of vision-language models.
 
 ### Category Name 1 
 
