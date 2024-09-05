@@ -14,6 +14,7 @@ import Grid from "@mui/material/Grid2";
 import depthPic from '../assets/depth.png'; 
 import ganPic from '../assets/ganalytics.png';
 import facePic from '../assets/face.png';
+import wearPic from '../assets/wear.png';
 
 const projects = [
   {
@@ -58,6 +59,19 @@ const projects = [
       { label: "CODE", url: "#" },
     ],
   },
+  {
+    title: "What do I wear?",
+    status: "Published, 2019",
+    description:
+      "The goal of this project was to create a user-friendly application capable of providing users with a convenient way to collect, organize and share various articles of clothing in an ever growing market of apparel. Users are presented with collection and sorting functionality in their closets via a GUI.",
+    imageUrl: wearPic, // Replace with actual image URLs
+    links: [
+      { label: "ABS", url: "#" },
+      { label: "PAGE", url: "#" },
+      { label: "PDF", url: "#" },
+      { label: "CODE", url: "#" },
+    ],
+  }
   // Add more projects as needed
 ];
 
@@ -77,7 +91,7 @@ const Projects = () => {
           Selected Projects <WorkIcon />
         </Typography>
 
-        <Grid container spacing={4}>
+        <Grid container spacing={4} style={{maxHeight: '100vh', overflow: 'auto'}}>
           {projects.map((project, index) => (
             <Grid item xs={12} key={index}>
               <Card
