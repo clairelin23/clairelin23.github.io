@@ -24,7 +24,7 @@ const Footer = () => {
             CLAIRE LIN
           </Typography>
           <Typography variant="body2">
-            2024 © Version 1.5
+            2024 © Version 1.6
           </Typography>
           <Typography variant="body2">All rights reserved</Typography>
         </Grid>

@@ -22,7 +22,7 @@ import resumePDF from "./assets/ClaireShaoyu_Lin_Resume.pdf"; // Ensure the path
 const ResumePage = () => {
   return (
     <div>
-    <Container sx = {{marginY: 3}}>
+    <Container maxWidth={false}  sx = {{marginY: 3}}>
       <Grid container spacing={3} rowSpacing={7} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
        
       <TopRowLinksResume/>

@@ -18,14 +18,14 @@ import Footer from "./components/footer.js";
 const Home = () => {
   return (
     <div>
-    <Container sx = {{marginY: 3}}>
+    <Container maxWidth={false} sx = {{marginY: 3, width: '100%'}}>
       <Grid container spacing={3} rowSpacing={7} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
        
       <TopRowLinks/>
         <Intro />
         <NewsSection />
         
-        <Grid container size={4} rowSpacing={7} >
+        <Grid container size={3} rowSpacing={7} >
 
         <MyTimeline />
         <EdTimeline />

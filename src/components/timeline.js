@@ -11,7 +11,7 @@ import TimelineDot from "@mui/lab/TimelineDot";
 const experiences = [
     {
       title: "Machine Learning Engineer (Consultant)",
-      location: "Veytel, Pittsburgh, PA",
+      location: "Veytel, Remote",
       duration: "2024 - Present",
     },
     {
@@ -63,7 +63,7 @@ const MyTimeline = () => {
                     textAlign: "left", // Aligns text to the left
                   }}
                 >
-                  <Typography variant="h6" fontWeight="bold">
+                  <Typography variant="h7" fontWeight="bold">
                     {exp.title}
                   </Typography>
                   <Typography variant="body2" color="textSecondary">

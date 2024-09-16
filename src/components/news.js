@@ -25,7 +25,7 @@ const newsItems = [
 
 const NewsSection = () => {
   return (
-    <Grid size={5}>
+    <Grid size={4}>
       <Box
         sx={{
           p: 1.5,

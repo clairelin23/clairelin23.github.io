@@ -51,7 +51,7 @@ const EdTimeline = () => {
                     textAlign: "left", // Aligns text to the left
                   }}
                 >
-                  <Typography variant="h6" fontWeight="bold">
+                  <Typography variant="h7" fontWeight="bold">
                     {exp.title}
                   </Typography>
                   <Typography variant="body2" color="textSecondary">
