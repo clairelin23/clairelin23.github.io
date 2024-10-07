@@ -40,7 +40,7 @@ const projects = [
     title: "GANalytics",
     // authors: "Claire Lin",
     status: "Published, Oct 2023",
-    description: "Re-implementation of Nvidia's StyleGAN in pytorch and analysis of synthesized image",
+    description: "Re-implementation of Nvidia's StyleGAN in PyTorch and analysis of synthesized image",
     abstract:
       "This project includes a PyTorch implementation of StyleGAN and provides a detailed performance analysis comparing it with other generative models, including Wasserstein Generative Adversarial Network (WGAN) and Diffusion models.",
     imageUrl: ganPic, // Replace with actual image URLs
