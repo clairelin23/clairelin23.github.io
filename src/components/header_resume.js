@@ -50,7 +50,7 @@ const TopRowLinksResume = () => {
         <Box sx={{ display: "flex", gap: 1 }}>
           <IconButton
             component="a"
-            href="https://scholar.google.com"
+            href="https://scholar.google.com/citations?hl=en&user=07cFbRMAAAAJ"
             target="_blank"
             aria-label="Google Scholar"
           >

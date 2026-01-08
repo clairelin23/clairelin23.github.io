@@ -9,15 +9,20 @@ import TimelineDot from "@mui/lab/TimelineDot";
 
 
 const experiences = [
+  {
+    title: "Software Development Engineer",
+    location: "Amazon, Seattle, WA",
+    duration: "2024 - Present",
+  },
     {
       title: "Machine Learning Engineer (Consultant)",
       location: "Veytel, Remote",
-      duration: "2024 - Present",
+      duration: "2024 - 2024",
     },
     {
       title: "Research Intern",
       location: "Carnegie Mellon University, Pittsburgh, PA",
-      duration: "2023 - Present",
+      duration: "2023 - 2023",
     },
     {
       title: "Software Engineer Intern",
