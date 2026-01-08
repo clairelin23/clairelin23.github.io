@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.407e499b.js",
+    "main.js": "/static/js/main.349a7537.js",
     "static/js/453.957f0e6e.chunk.js": "/static/js/453.957f0e6e.chunk.js",
     "static/media/ganalytics.png": "/static/media/ganalytics.18f0eaf8885b5f49a503.png",
     "static/media/profile1.png": "/static/media/profile1.063972252f324c932155.png",
@@ -9,14 +9,14 @@
     "static/media/depth.png": "/static/media/depth.59e4ac67d3a1def51bd8.png",
     "static/media/face.png": "/static/media/face.4994afdf2dbb1aa458ae.png",
     "static/media/wear.png": "/static/media/wear.8aa9814ef6ae6583294c.png",
-    "static/media/ClaireShaoyu_Lin_Resume.pdf": "/static/media/ClaireShaoyu_Lin_Resume.47ec26317f165f648830.pdf",
+    "static/media/ClaireShaoyu_Lin_Resume.pdf": "/static/media/ClaireShaoyu_Lin_Resume.e8ea5286fb56e16217cd.pdf",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.407e499b.js.map": "/static/js/main.407e499b.js.map",
+    "main.349a7537.js.map": "/static/js/main.349a7537.js.map",
     "453.957f0e6e.chunk.js.map": "/static/js/453.957f0e6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.407e499b.js"
+    "static/js/main.349a7537.js"
   ]
 }
